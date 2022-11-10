@@ -19,11 +19,11 @@ The tool used for Visualization was PowerBI, specifically Power BI Desktop. Once
 The user can download the report from the repository. They can then open the project in Power BI Desktop or view the published project on a workspace. The connection to the dataset is done via organisational authentication.
 
 Once the report is opened, the user can view one of 3 pages:
-# 1.High-Level Metrics
+### 1.High-Level Metrics
 This page is meant primarily for Business and could empower them to make strategic decisions. The purpose of this page is to 'highlight' important metrics as it pertains to the data.
-# 2.Device Monitoring
+### 2.Device Monitoring
 This page is meant for more detailed analysis of devices and all metrics related to them. Device categories, where they are located and when the were added for example.
-# 3.Device Registration
+### 3.Device Registration
 This page is to take a look at the registration data of new devvices added to the network. We can look at when, where and why as well as if they are active etc.
 
 Finally, these pages can be filtered depending on what the user wants to see.
