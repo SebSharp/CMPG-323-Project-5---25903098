@@ -19,8 +19,8 @@ The tool used for Visualization was PowerBI, specifically Power BI Desktop. Once
 The user can download the report from the repository. They can then open the project in Power BI Desktop or view the published project on a workspace. The connection to the dataset is done via organisational authentication.
 
 Once the report is opened, the user can view one of 3 pages:
-1.High-Level Metrics
-2.Device Monitoring
-3.Device Registration
+#1.High-Level Metrics
+#2.Device Monitoring
+#3.Device Registration
 
-The purpose of these
+The purpose of these pages 
